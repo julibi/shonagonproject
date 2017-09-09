@@ -1,0 +1,14 @@
+{
+  "name": "shonagon_a",
+  "version": "1.0.0",
+  "description": "a-version of shonagonproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julibi",
+  "license": "ISC",
+  "dependencies": {
+    "typed.js": "^2.0.5"
+  }
+}
