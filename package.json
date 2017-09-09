@@ -9,6 +9,5 @@
   "author": "julibi",
   "license": "ISC",
   "dependencies": {
-    "typed.js": "^2.0.5"
   }
 }
