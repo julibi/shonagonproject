@@ -17,3 +17,4 @@ btn.addEventListener('click', function() {
 		output.innerHTML = randomSplice[0].text;
   	}	    
 });
+
