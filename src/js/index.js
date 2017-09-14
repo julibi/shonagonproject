@@ -1,20 +1,14 @@
-var container = document.getElementsByClassName('container-fluid');
-var btn = document.getElementById('btn');
-var title = document.getElementById('title');
-var output = document.getElementById('output');
-
-btn.addEventListener('click', function() {
-	//select a random SNU
-	var randomIndex = Math.floor(Math.random() * snu.length); 
-	var randomSplice = snu.splice(randomIndex, 1); 	
-	
-	if (randomSplice[0] === undefined) {
-		//hide button when all SNUs have been read
-		btn.style.visibility = 'hidden';
-	} else {
-		//show title and SNU
-		title.innerHTML = randomSplice[0].title;
-		output.innerHTML = randomSplice[0].text;
-  	}	    
+var getButtonId = [];
+nextSnusButtons.forEach(function(nextSnuButton){
+	getButtonId.push(nextSnuButton.id);
+	console.log(getButtonId);
+});
+getButtonId.forEach(function(element){
+	var element = document.getElementById(element);
+	console.log(element);
+	element.addEventListener('click', function(){
+		console.log('starting next step...');
+		console.log(snus.element);
+	});
 });
 
