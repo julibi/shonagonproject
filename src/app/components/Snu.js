@@ -11,14 +11,14 @@ export const snus = [
     title: "Theface",
     text:
       "In der Schule haben ihn einige The Face nennen. Ich kenne ihn schon mein ganzes Leben, kann mir dennoch gut vorstellen, wie es sein muss ihn zum ersten Mal zu sehen. Solange er seine Sonnenbrille aufhat, stellt man sich auf seinem sehnigen Körper ein mediterranes Gesicht vor. Dann setzt er sie ab und man sucht Fehler in einem sehr verführerischen Bild. Seine Augenbrauen und seine Nase sind Dylan-artig schmal. Wenn sich seine ausgetrockneten roten Lippen, die in sein fleischloses Übergebiss gerammt worden sind, sich öffnen, sieht man seine geraden angegilbten Zähne und hört irgendwo einen Satz wie „Hi, ehm ... Evariste.“ Seine Haare sind glatt und glänzen in der Sonne wie Honig. Der Fehler – eigentlich sind es zwei. Seine Augen sind Mandeln aber die Iris ist nussbraun und grün. Die Großstadtevolution hat in seiner DNA gegriffen: Lange, dichte Wimpern mit derselben Honigfarbe seiner Haare beschützen die eurasischen Augen vor dem Gift, das man hier atmet.",
-    keywords: ["Throwback", "Evariste"]
+    keywords: ["Throwback", "Evariste", "other"]
   },
   {
     id: 3,
     title: "#Whoopwhoop #noinstanolife",
     text:
       "The first thing I got my self after landing in China with Airport Wifi: a Proxy. Hello Insta! Hello World!",
-    keywords: ["Shanghai", "Alltag"]
+    keywords: ["Shanghai", "Alltag", "other"]
   },
   {
     id: 4,
@@ -153,21 +153,21 @@ export const snus = [
     title: "Wunderkind",
     text:
       "Ich habe aufgehört diszipliniert zu sein, mit 14 ungefähr, als ich gemerkt habe, dass mein Umfeld „diszipliniert“ gerne mit Asiaten assoziiert. Die Turmbau-Metapher meines Vaters hat nicht einmal ein Jahrzehnt lang Widerhall in mir gefunden. <br>Manchmal haben meine Eltern und ich gemeinsam chinesische Filme geschaut. Zusammengezählt eine Menge, vielleicht zwei ganze Wochen Filmmaterial. Es waren VHS Kassetten, welche durch die Hände der Eltern in der chinesischen Schule zirkulierten.  Ich erinnere mich nur an eine Handvoll dieser Filme. In einem davon kam ein kleiner mittelloser Junge vor, ein Violinenwunderkind. Um erfolgreich zu werden, übte er im Eiswasser. Wir waren alle drei sehr ergriffen von dieser Szene. Die Kamera kreist in Schrittgewschwindigkeit  um den gefrorenen Teich herum und durch das kale Gebüsch am Ufer hindurch erhascht man Blicke auf den Jungen der mit blauen Lippen die melancholische Melodie aus dem Soundtrack spielt.<br> Insbesondere meine Eltern liebten diese Verherrlichung von übermenschlichen Fleiß und alle ihre Varianten. In einem Streitgespräch Jahre später warf ich meiner Mutter an den Kopf, dass sie von mir die Disziplin eines Violinenwunderkindes nicht zu erwarten habe, da es im Grunde eine von ihr selbst versäumte Pflicht gewesen sei, die sie nun mir zuschob. Warum sonst sollte sie dann über fettigen Herden gebeugt den Mindestlohn verdienen?<br>Ich wartete darauf, dass sie sich vielleicht meinen toten Bruder an meine Stelle wünschte oder mich ohrfeigte. Aber sie sagte gar nichts. Evariste meinte ein paar Tage später zu mir, dass ich damit aufhören sollte, darauf zu warten von meiner eigenen Mutter aufgegeben zu werden.",
-    keywords: ["Throwback"]
+    keywords: ["Throwback", "Chinese", "other"]
   },
   {
     id: 23,
     title: "Davidintheden",
     text:
       "Bisher hat er genau zwei Bilder in Shanghai hochgeladen. Das von uns vor unserem WG-Fenster und eine Nahaufnahme von seinem ersten Qingdao.<br> Die restlichen neun Posts sind von seinem Thailand-Urlaub, von dem er uns ein paar Mal vorgeschwärmt hat, obwohl der Urlaub schon zwei Jahre her ist. <br>David mit einem Cocktail in einer Kokosnuss, in der ein kleiner Papierschirm steckt, mit Ray Ban, mit breitem Grinsen, im weißen Sand, vor einem Meer das dieselbe Farbe hat wie seine Augen. David in Schnorchelmontur, David mal mit Pizza und Singha, mal mit Sushi vor der Bucht, die jeder aus The Beach kennt. Er ist mit seinem Vater und einem Kumpel hingefahren. Bis auf den Hinterkopf seines Vaters ist keiner seiner Begleiter auf einem der Fotos zu sehen. Wir kennen trotz der vielen Anekdoten nicht einmal den Namen dieses Kumpels, mit dem er den Sommer seines Lebens verbracht haben soll.",
-    keywords: ["David", "Insta"]
+    keywords: ["David", "Insta", "other"]
   },
   {
     id: 24,
-    title: "Prepaidpt",
+    title: "Prepaidpt1",
     text:
       "Gail: Hallo? Ist da jemand?<br>Frau: ja? <br>Gail: Hallo. Kann ich hier eine Simkarte kaufen? <br>Frau: Ja, zeig mal dein Handy. <br>Gail: Wieviel? <br>Frau: Zeig mal dein Handy. <br>Gail:  … hier. <br>Frau setzt sich eine Brille auf ihre Nasenspitze und inspiziert das iPhone. <br>Frau: Prepaid möchtest du? Zum monatlich aufladen? <br>Gail: …<br>Frau: Hast du mich verstanden? <br>Gail: Nicht so gut. Noch einmal langsam? Bitte? <br>Frau: Du möchtest eine Karte für dein Handy. Du kannst sie aufladen und wenn du alles benutzt hast, kannst du die Karte neu aufladen. Ok? <br>Gail: Ok. <br>Frau: Du willst Prepaid, ja? <br>Gail: Ja, ist gut. <br>Frau: Woher kommst du, Japan? <br>Gail: Nein, ich bin Chinesin. <br>Frau: Bist du in Amerika geboren? <br>Gail: In Deutschland. <br>Frau: Deutschland. Warte kurz, ich sage kurz meinem Mann Bescheid. Der hat die SIM-Karten hinten. Baobei! Eine Prepaid-Karte für eine Kundin. Aus Deutschland! <br>Zwei Kinder, ein Mädchen und ein Junge, kommen aus einem Hinterzimmer gerannt und bleiben gebannt stehen. Sie sehen nicht das, was sie erwartet haben. Keine große deutsche Zinkennase, die zwischen den Regalen dauergestampft kommt. Sie blinzeln Gail an. Hinter ihnen tritt der Mann durch die Tür. <br>Gail kennt den Blick des Mannes. Er ist nicht der erste, der sie so mustert. In der Grundschule wurde sie so von einem Kind aus der Nachbarschaft angesehen, als sie meinte, dass sie sehr gerne Reis mit Ketchup esse. Es war ungefähr der gleiche Blick, eine Mischung aus Misstrauen und Mitleid. Während seine Frau die Sim-Karte auf iPhone-Größe verkleinert , in dem sie den Chip mit einem Locher-artigem Gerät aus dem Plastik stanzt, fragt er: <br>„Und du bist hier, um deine Muttersprache zu lernen?“ <br>Er verleiht dem Wort „Muttersprache“ eine Erhabenheit, in dem er es mit einer Schwere ausspricht, mit der andere „Amen“ sagen. <br>„Ja.“ <br>„Das ist gut! Man muss seine Muttersprache können“, sagt er, dieses Mal etwas hoffnungsvoller. <br>Zwischen all den Egomanen an Einzelkindern und  einer wild um sich greifenden Apple-Manie, gibt es noch immer diese Art von Anteilnahme, die den Kummer eines einzelnen Chinesen zu dem Kummer der gesamten Nation machen kann. Die Tatsache, dass Gail etwa im Alter seiner Nichte sein könnte, macht sie für ihn zu einer Nichte.  <br>Normalerweise würde sie in einer solchen Situation auf ihr iPhone gucken und zwischen Apps hin- und herwischen, aber es liegt auf dem Tresen. <br>Die Frau stößt ihm in die Seite, während Gail ihre neue Sim-Karte ausprobiert ohne aufzuschauen. <br>„Sie ist schüchtern.“ <br>„Ja, sie ist schüchtern.“ <br>Gail zahlt. Sie möchte den beiden einen schönen Tag wünschen, aber es gibt keinen Ausdruck dafür, als sagt sie gar nichts. <br>„Lern fleißig!“, ruft der Mann ihr nach. <br>„Ok.“",
-    keywords: ["Chinesisch", "Alltag"]
+    keywords: ["Chinesisch", "Alltag", "Shanghai"]
   },
   {
     id: 25,
@@ -182,7 +182,7 @@ export const snus = [
     title: "Obsthändler",
     text:
       "„Ich möchte einmal Banane, bitte.“<br>„Eine? Oder einen Strauch?“<br>„Strauch. Eine Strauch.“ <br>Einen, einen Strauch. Einen Strauch, Gail. Ein Strauch, Bananen. <br>„Einen Strauch.“ <br>„10 Kuai.“ <br>",
-    keywords: ["Alltag", "Chinesisch"]
+    keywords: ["Alltag", "Chinesisch", "Shanghai"]
   },
   {
     id: 27,
@@ -203,7 +203,7 @@ export const snus = [
     title: "Fahrstühle",
     text:
       "Schon wieder sind wir im Fahrstuhl – ständig. Mein Eindruck von Shanghai bisher: die stählernen Fahrstuhlseile sind die Sehnen der Stadt. Ihr Auf- und Ab ist das Uhrwerk. Wir sind mittendrin. In Pudong schießen sie so schnell in die Luft, dass ich mich hinter meinem Rücken an der Stange festhalte. Vielleicht drückt der Fahrstuhl uns durch eine Membran. Wenn wir auf der anderen Seite angekommen sind, haben wir unsere Haut abgelegt und laufen als Stücke rohen, schutzlosen Fleisches durch den Club. Wie ähnlich werden David und ich uns dann sein?",
-    keywords: ["Chinesisch", "Shanghai"]
+    keywords: ["Chinesisch", "Shanghai", "Party"]
   },
   {
     id: 30,
@@ -217,14 +217,14 @@ export const snus = [
     title: "GailDavidpt2",
     text:
       "David und ich haben schon lange aufgehört miteinander zu schlafen. Es waren wenige Male, relativ am Anfang, also im Sommer vor einem Jahr als Evariste und ich begannen uns regelmäßig mit ihm zu treffen. Die Tage von damals verschwimmen ineinander. Wir kamen abends aus der Bibliothek und gingen in die Kneipe im Untergeschoss von Evaristes WG. Wir haben immer getrunken bis Evariste gekotzt hat. Ich erinnere mich an keines der Gespräche, die ich dort so eifrig mit allen möglich Menschen geführt habe. Aber ich weiß, dass wir ständig  gelacht haben. So viel, dass ich am nächsten morgen mit Kopfschmerzen aufgewacht bin, vom Schall des ganzen Gelächters.<br>An den Sex habe ich kaum Erinnerungen. Nur dass er sehr schwer zu befriedigen war. Er kam gefühlt eine halbe Stunde später als ich und es hatte mehr etwas von Leistungssport als von Erfüllung. Wir trafen uns jedes Mal auch am Tag danach zu dritt um im Café ein Katerfrühstück zu verdrücken. David und ich kamen dann aus derselben Richtung, was Evariste mit Sicherheit aufgefallen ist. Aber er hat nie ein Wort darüber verloren. Er hat zu 100% harmlos gelächelt und erst mich, dann David in den Arm genommen. <br>Wenn es Männer mit einem ‚Gaydar’ gibt, haben Evariste und ich einen ‚Asiadar‘. Wir haben von frühester Pubertät an gelernt wie man Männer mit Asiatinnenfetisch erkennt. Ich merke es die Sekunde, in der ein Mann mich ansieht. David ist auf unserem Radar nicht zu orten. Er ist die beiden Male mit der Freundin seines schwulen Kumpels nach Hause gegangen und nicht mit einer Chinesin.",
-    keywords: ["David", "Throwback"]
+    keywords: ["David", "Throwback", "other"]
   },
   {
     id: 32,
     title: "GailDavidpt1",
     text:
       "An dem Tag, an dem Evariste mir David vorstellte, war ich in der Laune wem – egal wem – die Nase ins Gehirn zu treiben. Also erzählte ich ihm, dass ich Probleme mit Aggressionsmanagement habe und dass ich nur noch nicht zu Gruppensitzungen gegangen sei, weil meine Eltern kein Verständnis für moderne gesellschaftlich relevante Krankheiten hätten.  Er fand wohl irgendwas an meiner Wut nicht unreizvoll. Vielleicht war er einfach übersättigt an schönen blonden Frauen, die Hockey gespielt, im Deutsch LK gewesen und in Australien einen Austausch gemacht hatten und Jura oder Medizin studierten und ihn mit einem Übermaß an guten Geschmack überlutschten.<br>Er hörte mir entspannt zu, in dem er seine vollkommenen Unterarme auf den Tisch legte und mir offen ins Gesicht sah. Es war Sommer, er trug ein T-Shirt, seine Arme waren trainiert und ruhten verschränkt vor mir auf dem Tisch. Ich sah wie sein Kiefer pochte. Er blinzelte nicht.Er war nicht per se ein schöner Mann wie Evariste, aber er besaß eine in sich geschlossene Vollkommenheit.<br>“Ihr geht nach ShangHAI, hat mir Evariste erzählt“ < br > „Ja, wir gehen nach SHANGhai“ < br >„Geil.“ < br > „Findest du?“ < br > „Schon. Stimmt es, dass man dort Affen isst?“ <br> „Affen in Shanghai ?“ <br> „Ja, also ... in China.“ < br > Ich wusste damals nicht, dass er die Angewohnheit hat zu provozieren. Ich kann verstehen, dass es ihn wütend gemacht hat: Hockeyfrauen ohne Ende, Rudern in der Alster, die Süddeutsche, Arbeitslosigkeit. Vielleicht ähnelten wir uns in der Hinsicht, dass wir Lust verspürten Dinge zerplatzen zu lassen.Ich aus Wut.David aus Langeweile. <br > Ich sagte: <br>„Ja.Es sind Tibetmakak- Affen, die berühmt sind für ihre Aggressivität.Man darf sie nicht mit Waffen fangen oder sie halten oder sie töten. <br>„Man darf sie nicht töten?“ <br>„Natürlich nicht, man isst sie am lebendigen Leibe.“ <br>„Sie leben in Tibet, Sichuan, Yunnan, … Guangdong auch soweit ich weiß. Man fängt sie mit einer Bambusfalle und muss sie mit Händen an Bambusbäumen befestigen. Sie schreien sehr laut und zeigen einem die Zähne. Sie schreien auch um Hilfe, deswegen muss man schnell sein.“ <br>„Womit ... Muss man schnell sein?“ <br>„Einer drückt mit der Hand gegen die Stirn des Affen um den Kopf am Bambus zu befestigen. Dabei sieht man tief in seinem Mund seinen Gaumen, wie er vibriert weil er natürlich schreit. Der andere muss dann seinen Schädeldeckel abnehmen.“ <br>„Abnehmen …“<br>„Man nimmt ein Messer,  traditionell so ein mittelgroßes, gerades Messer mit Elfenbeingriff, ein sogenanntes 'mongolisches Messer' .Es wird direkt über dem oberen Ende des Ohrs angesetzt. Dort gibt es eine ganz leichte Einkerbung im Schädelknochen. Wenn man die Messerspitze frontal und voller Wucht in diese Einkerbung rammt, bekommt man einen perfekten waagerechten Riss. Es ist wie beim Knacken einer Walnuss. Wenn man richtig trifft, muss man nur noch mit den Messer den Lappen an behaarter Haut über dem Riss im Knochen durchschneiden. Aber vorsichtig, man will ja nicht in den besten Teil reinstechen mit dem mongolischen Messer, das ist ein Werkzeug und kein Besteck. Das Besteck ist ein Elfenbeinlöffel mit einem recht scharfen Rand. Gerade so scharf, dass er durch noch warmes Gewebe schneiden kann, das noch pocht ... aber nicht so scharf ist dass man sich damit im eigenen Mund verletzen kann.“ David ist etwas blass geworden, aber er grinst, während er den Kopf schüttelt. Ich entschuldige mich, um auf die Toilette zu gehen. Bevor ich die Tür zur Damentoilette hinter mir schließe, höre ich das ungläubige Schweigen der beiden.",
-    keywords: ["David", "Throwback"]
+    keywords: ["David", "Throwback", "other"]
   },
   {
     id: 33,
